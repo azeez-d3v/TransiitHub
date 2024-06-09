@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "860216892110",
+    "project_id": "transportr-8yziyb",
+    "storage_bucket": "transportr-8yziyb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860216892110:android:f1a7b2c49d988e068e8e9f",
+        "android_client_info": {
+          "package_name": "com.luckypanda.lpanda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRpRQgkjPnYQ62mAigTYSn0vKnH3HLLZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860216892110:android:718c0c5d623edd708e8e9f",
+        "android_client_info": {
+          "package_name": "com.luckypanda.transportr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRpRQgkjPnYQ62mAigTYSn0vKnH3HLLZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
