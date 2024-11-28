@@ -1,4 +1,4 @@
-# 🚀 TransitHub
+# 🚀 TransitHub | Capstone Project
 
 **TransitHub** is a sophisticated transportation management platform designed to streamline the coordination between Customers, Coordinators, Operators, and Drivers. The platform is divided into a web application for Customers and Coordinators and a mobile application dedicated to Operators and Drivers.
 
