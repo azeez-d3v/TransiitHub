@@ -3,53 +3,56 @@
 **TransitHub** is a sophisticated transportation management platform designed to streamline the coordination between Customers, Coordinators, Operators, and Drivers. The platform is divided into a web application for Customers and Coordinators and a mobile application dedicated to Operators and Drivers.
 
 ### Screen Captures
-#### Driver Login
-![Driver Login](screenshots/driver_login.png)  
-*A secure login interface for drivers*
-
-#### Driver Interface
-![Driver UI](screenshots/driver_u_i2.png)  
-*Main dashboard for drivers to monitor their activities*
-
-#### Personnel Management
-![Personnel](screenshots/personnel.png)  
-*Team management and collaboration tools*
-
-#### Account Creation
-![Create Account](screenshots/create_account.png)  
-*Step-by-step account creation process*
-
-#### Profile View
-![Profile](screenshots/profile.png)  
-*A centralized view of user profile information*
-
-#### Fleet Tracking
-![Tracker](screenshots/tracker.png)  
-*Real-time tracking and location monitoring*
-
-#### Active Job Dashboard
-![Active Jobs](screenshots/list_active_jobs.png)  
-*Current jobs and their statuses*
-
-#### Vehicle Management
-![Vehicle List](screenshots/list_of_vehicles.png)  
-*Comprehensive overview of fleet vehicles*
-
-#### Driver Linkage
-![Driver Link](screenshots/driver_link.png)  
-*Connecting drivers with their vehicle assignments*
-
-#### Login Default
-![Login Default](screenshots/login_default.png)  
-*Default login screen for user authentication*
-
-#### Profile Editing
-![Profile Edit](screenshots/profile_edit.png)  
-*Customizable profile settings with instant updates*
-
-#### Homepage Dashboard
-![Homepage](screenshots/homepage.png)  
-*Key features accessible at a glance*
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: space-between;">
+<div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
+<img src="screenshots/driver_login.png" alt="Driver Login" style="max-width: 100%; height: auto;" />
+<p><em>A secure login interface for drivers</em></p>
+</div>
+<div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
+<img src="screenshots/driver_u_i2.png" alt="Driver UI" style="max-width: 100%; height: auto;" />
+<p><em>Main dashboard for drivers to monitor their activities</em></p>
+</div>
+<div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
+<img src="screenshots/personnel.png" alt="Personnel" style="max-width: 100%; height: auto;" />
+<p><em>Team management and collaboration tools</em></p>
+</div>
+<div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
+<img src="screenshots/create_account.png" alt="Create Account" style="max-width: 100%; height: auto;" />
+<p><em>Step-by-step account creation process</em></p>
+</div>
+<div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
+<img src="screenshots/profile.png" alt="Profile" style="max-width: 100%; height: auto;" />
+<p><em>A centralized view of user profile information</em></p>
+</div>
+<div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
+<img src="screenshots/tracker.png" alt="Tracker" style="max-width: 100%; height: auto;" />
+<p><em>Real-time tracking and location monitoring</em></p>
+</div>
+<div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
+<img src="screenshots/list_active_jobs.png" alt="Active Jobs" style="max-width: 100%; height: auto;" />
+<p><em>Current jobs and their statuses</em></p>
+</div>
+<div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
+<img src="screenshots/list_of_vehicles.png" alt="Vehicle List" style="max-width: 100%; height: auto;" />
+<p><em>Comprehensive overview of fleet vehicles</em></p>
+</div>
+<div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
+<img src="screenshots/driver_link.png" alt="Driver Link" style="max-width: 100%; height: auto;" />
+<p><em>Connecting drivers with their vehicle assignments</em></p>
+</div>
+<div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
+<img src="screenshots/login_default.png" alt="Login Default" style="max-width: 100%; height: auto;" />
+<p><em>Default login screen for user authentication</em></p>
+</div>
+<div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
+<img src="screenshots/profile_edit.png" alt="Profile Edit" style="max-width: 100%; height: auto;" />
+<p><em>Customizable profile settings with instant updates</em></p>
+</div>
+<div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
+<img src="screenshots/homepage.png" alt="Homepage" style="max-width: 100%; height: auto;" />
+<p><em>Key features accessible at a glance</em></p>
+</div>
+</div>
 
 ---
 
