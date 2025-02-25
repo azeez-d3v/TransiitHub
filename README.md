@@ -4,54 +4,54 @@
 
 ### Screen Captures
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: space-between;">
-<div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
-<img src="screenshots/driver_login.png" alt="Driver Login" style="max-width: 100%; height: auto;" />
-<p><em>A secure login interface for drivers</em></p>
-</div>
-<div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
-<img src="screenshots/driver_u_i2.png" alt="Driver UI" style="max-width: 100%; height: auto;" />
-<p><em>Main dashboard for drivers to monitor their activities</em></p>
-</div>
-<div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
-<img src="screenshots/personnel.png" alt="Personnel" style="max-width: 100%; height: auto;" />
-<p><em>Team management and collaboration tools</em></p>
-</div>
-<div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
-<img src="screenshots/create_account.png" alt="Create Account" style="max-width: 100%; height: auto;" />
-<p><em>Step-by-step account creation process</em></p>
-</div>
-<div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
-<img src="screenshots/profile.png" alt="Profile" style="max-width: 100%; height: auto;" />
-<p><em>A centralized view of user profile information</em></p>
-</div>
-<div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
-<img src="screenshots/tracker.png" alt="Tracker" style="max-width: 100%; height: auto;" />
-<p><em>Real-time tracking and location monitoring</em></p>
-</div>
-<div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
-<img src="screenshots/list_active_jobs.png" alt="Active Jobs" style="max-width: 100%; height: auto;" />
-<p><em>Current jobs and their statuses</em></p>
-</div>
-<div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
-<img src="screenshots/list_of_vehicles.png" alt="Vehicle List" style="max-width: 100%; height: auto;" />
-<p><em>Comprehensive overview of fleet vehicles</em></p>
-</div>
-<div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
-<img src="screenshots/driver_link.png" alt="Driver Link" style="max-width: 100%; height: auto;" />
-<p><em>Connecting drivers with their vehicle assignments</em></p>
-</div>
-<div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
-<img src="screenshots/login_default.png" alt="Login Default" style="max-width: 100%; height: auto;" />
-<p><em>Default login screen for user authentication</em></p>
-</div>
-<div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
-<img src="screenshots/profile_edit.png" alt="Profile Edit" style="max-width: 100%; height: auto;" />
-<p><em>Customizable profile settings with instant updates</em></p>
-</div>
-<div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
-<img src="screenshots/homepage.png" alt="Homepage" style="max-width: 100%; height: auto;" />
-<p><em>Key features accessible at a glance</em></p>
-</div>
+  <div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
+    <img src="screenshots/driver_login.png" alt="Driver Login" width="200" />
+    <p><em>A secure login interface for drivers</em></p>
+  </div>
+  <div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
+    <img src="screenshots/driver_u_i2.png" alt="Driver UI" width="200" />
+    <p><em>Main dashboard for drivers to monitor their activities</em></p>
+  </div>
+  <div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
+    <img src="screenshots/personnel.png" alt="Personnel" width="200" />
+    <p><em>Team management and collaboration tools</em></p>
+  </div>
+  <div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
+    <img src="screenshots/create_account.png" alt="Create Account" width="200" />
+    <p><em>Step-by-step account creation process</em></p>
+  </div>
+  <div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
+    <img src="screenshots/profile.png" alt="Profile" width="200" />
+    <p><em>A centralized view of user profile information</em></p>
+  </div>
+  <div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
+    <img src="screenshots/tracker.png" alt="Tracker" width="200" />
+    <p><em>Real-time tracking and location monitoring</em></p>
+  </div>
+  <div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
+    <img src="screenshots/list_active_jobs.png" alt="Active Jobs" width="200" />
+    <p><em>Current jobs and their statuses</em></p>
+  </div>
+  <div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
+    <img src="screenshots/list_of_vehicles.png" alt="Vehicle List" width="200" />
+    <p><em>Comprehensive overview of fleet vehicles</em></p>
+  </div>
+  <div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
+    <img src="screenshots/driver_link.png" alt="Driver Link" width="200" />
+    <p><em>Connecting drivers with their vehicle assignments</em></p>
+  </div>
+  <div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
+    <img src="screenshots/login_default.png" alt="Login Default" width="200" />
+    <p><em>Default login screen for user authentication</em></p>
+  </div>
+  <div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
+    <img src="screenshots/profile_edit.png" alt="Profile Edit" width="200" />
+    <p><em>Customizable profile settings with instant updates</em></p>
+  </div>
+  <div style="flex: 1 1 calc(33.333% - 16px); text-align: center;">
+    <img src="screenshots/homepage.png" alt="Homepage" width="200" />
+    <p><em>Key features accessible at a glance</em></p>
+  </div>
 </div>
 
 ---
