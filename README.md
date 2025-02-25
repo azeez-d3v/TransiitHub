@@ -2,6 +2,57 @@
 
 **TransitHub** is a sophisticated transportation management platform designed to streamline the coordination between Customers, Coordinators, Operators, and Drivers. The platform is divided into a web application for Customers and Coordinators and a mobile application dedicated to Operators and Drivers.
 
+### Screen Captures
+#### Driver Login
+![Driver Login](/Android%20-%201080x2400/driver_login.png)  
+*A secure login interface for drivers*
+
+#### Driver Interface
+![Driver UI](/Android%20-%201080x2400/driver_u_i2.png)  
+*Main dashboard for drivers to monitor their activities*
+
+#### Personnel Management
+![Personnel](/Android%20-%201080x2400/personnel.png)  
+*Team management and collaboration tools*
+
+#### Account Creation
+![Create Account](/Android%20-%201080x2400/create_account.png)  
+*Step-by-step account creation process*
+
+#### Profile View
+![Profile](/Android%20-%201080x2400/profile.png)  
+*A centralized view of user profile information*
+
+#### Fleet Tracking
+![Tracker](/Android%20-%201080x2400/tracker.png)  
+*Real-time tracking and location monitoring*
+
+#### Active Job Dashboard
+![Active Jobs](/Android%20-%201080x2400/list_active_jobs.png)  
+*Current jobs and their statuses*
+
+#### Vehicle Management
+![Vehicle List](/Android%20-%201080x2400/list_of_vehicles.png)  
+*Comprehensive overview of fleet vehicles*
+
+#### Driver Linkage
+![Driver Link](/Android%20-%201080x2400/driver_link.png)  
+*Connecting drivers with their vehicle assignments*
+
+#### Login Default
+![Login Default](/Android%20-%201080x2400/login_default.png)  
+*Default login screen for user authentication*
+
+#### Profile Editing
+![Profile Edit](/Android%20-%201080x2400/profile_edit.png)  
+*Customizable profile settings with instant updates*
+
+#### Homepage Dashboard
+![Homepage](/Android%20-%201080x2400/homepage.png)  
+*Key features accessible at a glance*
+
+---
+
 ## 🌟 Key Features
 
 ### 📝 Customer Job Input
